@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 120" fill="none">
+  <!-- Dark background pill -->
+  <rect width="640" height="120" rx="20" fill="#1A1A1A"/>
+
+  <!--
+    Wordmark: "Open" bone | "Claw" Claw Red | "HQ" bone
+    Font: Inter — loaded via embedded style. Falls back to system sans-serif.
+    Approximate letter-spacing: normal. Baseline at y=80.
+  -->
+  <style>
+    .wm { font-family: 'Inter', -apple-system, 'Segoe UI', sans-serif; font-size: 62px; }
+    .wm-regular { font-weight: 600; }
+    .wm-bold    { font-weight: 700; }
+  </style>
+
+  <text y="80" class="wm">
+    <tspan class="wm-regular" fill="#F5F0EB" x="28">Open</tspan><tspan
+          class="wm-bold"    fill="#E03E3E">Claw</tspan><tspan
+          class="wm-regular" fill="#F5F0EB">HQ</tspan>
+  </text>
+</svg>
