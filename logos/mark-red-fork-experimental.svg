@@ -1,22 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" fill="none">
-  <!-- Background -->
+  <!-- Background (same as claw mark) -->
   <rect width="500" height="500" rx="80" fill="#1A1A1A"/>
 
-  <!-- Experimental mark  GitHub-style branch/fork glyph in OpenClaw red.
-       Original paths use a 24x24 coordinate system. We scale and center them. -->
+  <!-- Experimental mark — GitHub-style fork/branch glyph in OpenClaw red.
+       The paths use a 24x24 coordinate system; we scale and center them. -->
   <g transform="translate(250 250) scale(16) translate(-12 -12)">
-    <path
-      d="M6.5 7.75v1A2.25 2.25 0 0 0 8.75 11h6.5a2.25 2.25 0 0 0 2.25-2.25v-1H19v1a3.75 3.75 0 0 1-3.75 3.75h-6.5A3.75 3.75 0 0 1 5 8.75v-1Z"
-      fill="#E03E3E"
-    />
-    <path
-      d="M11.25 16.25v-5h1.5v5h-1.5Z"
-      fill="#E03E3E"
-    />
+    <!-- Nodes -->
     <path
       d="M8.75 19.25a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 0 1-6.5 0ZM15 4.75a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 0 1-6.5 0Zm-12.5 0a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 0 1-6.5 0ZM5.75 6.5a1.75 1.75 0 1 0-.001-3.501A1.75 1.75 0 0 0 5.75 6.5ZM12 21a1.75 1.75 0 1 0-.001-3.501A1.75 1.75 0 0 0 12 21Zm6.25-14.5a1.75 1.75 0 1 0-.001-3.501A1.75 1.75 0 0 0 18.25 6.5Z"
       fill="#E03E3E"
     />
+    <!-- Horizontal branch -->
+    <path
+      d="M6.5 7.75v1A2.25 2.25 0 0 0 8.75 11h6.5a2.25 2.25 0 0 0 2.25-2.25v-1H19v1a3.75 3.75 0 0 1-3.75 3.75h-6.5A3.75 3.75 0 0 1 5 8.75v-1Z"
+      fill="#E03E3E"
+    />
+    <!-- Vertical stem -->
+    <path
+      d="M11.25 16.25v-5h1.5v5h-1.5Z"
+      fill="#E03E3E"
+    />
   </g>
 </svg>
-
