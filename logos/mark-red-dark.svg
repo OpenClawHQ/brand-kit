@@ -3,13 +3,35 @@
   <rect width="500" height="500" rx="80" fill="#1A1A1A"/>
 
   <!--
-    Experimental mark — GitHub-style fork glyph in OpenClaw red.
-    Original path uses a 24x24 coordinate system. We scale it up and center it.
+    OpenClawHQ mark — three-prong claw
+    Three filled prongs taper via cubic beziers to symmetric pointed tips.
+    Center prong is tallest. Palm is a thick rounded bar at base.
   -->
-  <g transform="translate(250 250) scale(16) translate(-12 -12)">
-    <path
-      d="M8.75 19.25a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 0 1-6.5 0ZM15 4.75a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 0 1-6.5 0Zm-12.5 0a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 0 1-6.5 0ZM5.75 6.5a1.75 1.75 0 1 0-.001-3.501A1.75 1.75 0 0 0 5.75 6.5ZM12 21a1.75 1.75 0 1 0-.001-3.501A1.75 1.75 0 0 0 12 21Zm6.25-14.5a1.75 1.75 0 1 0-.001-3.501A1.75 1.75 0 0 0 18.25 6.5Z"
-      fill="#E03E3E"
-    />
-  </g>
+
+  <!-- Left prong — center x=160, 60px wide, tip at y=70 -->
+  <path d="M 130,375
+           L 130,225
+           C 130,145 155,75 160,70
+           C 165,75 190,145 190,225
+           L 190,375 Z"
+        fill="#E03E3E"/>
+
+  <!-- Center prong — center x=250, 60px wide, tip at y=40 (tallest) -->
+  <path d="M 220,375
+           L 220,205
+           C 220,115 245,45 250,40
+           C 255,45 280,115 280,205
+           L 280,375 Z"
+        fill="#E03E3E"/>
+
+  <!-- Right prong — center x=340, 60px wide, tip at y=70 -->
+  <path d="M 310,375
+           L 310,225
+           C 310,145 335,75 340,70
+           C 345,75 370,145 370,225
+           L 370,375 Z"
+        fill="#E03E3E"/>
+
+  <!-- Palm bar -->
+  <rect x="80" y="362" width="340" height="68" rx="34" fill="#E03E3E"/>
 </svg>
