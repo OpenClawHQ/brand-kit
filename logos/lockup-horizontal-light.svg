@@ -15,8 +15,8 @@
     .lk-r { font-weight: 600; }
     .lk-b { font-weight: 700; }
   </style>
-  <!-- Text centered in viewBox: x=340 (center of text zone), y=70 (vertical center of 140) -->
-  <text x="340" y="70" text-anchor="middle" dominant-baseline="middle" class="lk">
+  <!-- Text centered in viewBox: x=340 (center of text zone), y=50% (vertical center) -->
+  <text x="340" y="50%" text-anchor="middle" dominant-baseline="middle" class="lk">
     <tspan class="lk-r" fill="#1A1A1A">Open</tspan><tspan class="lk-b" fill="#E03E3E">Claw</tspan><tspan class="lk-r" fill="#1A1A1A">HQ</tspan>
   </text>
 </svg>
