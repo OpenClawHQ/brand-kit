@@ -1,4 +1,4 @@
-# OpenClawHQ Brand Kit
+# effectorHQ Brand Kit
 
 Visual identity and brand guidelines for the OpenClaw ecosystem.
 
@@ -58,4 +58,4 @@ See [usage.md](./usage.md) for detailed guidelines.
 
 ## License
 
-MIT — same as everything else in OpenClawHQ.
+MIT — same as everything else in effectorHQ.

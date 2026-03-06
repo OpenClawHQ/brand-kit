@@ -1,12 +1,12 @@
 # Logo Usage
 
-Rules for using the OpenClaw mark and wordmark across contexts.
+Rules for using the effectorHQ mark and wordmark across contexts.
 
 ---
 
 ## The mark
 
-The OpenClaw mark is a stylized claw icon. It represents the core idea: AI tools that reach out and act.
+The effectorHQ mark is a stylized claw icon. It represents the core idea: AI that reaches out and acts on the world — an end effector.
 
 **Variants:**
 
@@ -21,7 +21,7 @@ The OpenClaw mark is a stylized claw icon. It represents the core idea: AI tools
 
 ## The wordmark
 
-"OpenClaw" as styled text. Always rendered in Inter Bold. The "Claw" portion is in Claw Red; "Open" is in the primary text color (Bone on dark, Charcoal on light).
+"effectorHQ" as styled text, rendered in Inter SemiBold/Bold. The "HQ" portion is in Claw Red (`#E03E3E`); "effector" is in the primary text color (Bone `#F5F0EB` on dark, Charcoal `#1A1A1A` on light).
 
 | Variant | File | When to use |
 |---------|------|-------------|

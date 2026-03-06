@@ -17,6 +17,6 @@
   </style>
   <!-- Text centered in viewBox: x=340 (center of text zone), y=70 (vertical center of 140) -->
   <text x="340" y="82" text-anchor="middle" dominant-baseline="middle" class="lk">
-    <tspan class="lk-r" fill="#F5F0EB">Open</tspan><tspan class="lk-b" fill="#E03E3E">Claw</tspan><tspan class="lk-r" fill="#F5F0EB">HQ</tspan>
+    <tspan class="lk-r" fill="#F5F0EB">effector</tspan><tspan class="lk-b" fill="#E03E3E">HQ</tspan>
   </text>
 </svg>
