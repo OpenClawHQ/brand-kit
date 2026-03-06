@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 108" fill="none">
-  <!-- Dark pill — iOS-radius corners -->
-  <rect width="440" height="108" rx="26" fill="#1A1A1A"/>
+  <!-- Light pill background — iOS-radius corners -->
+  <rect width="440" height="108" rx="26" fill="#FAFAFA"/>
 
   <style>
     .wm { font-family: 'Inter', -apple-system, 'Segoe UI', 'Helvetica Neue', sans-serif; font-size: 56px; letter-spacing: -0.02em; }
@@ -9,8 +9,8 @@
   </style>
 
   <text y="70" class="wm">
-    <tspan class="wm-regular" fill="#F5F0EB" x="28">Open</tspan><tspan
+    <tspan class="wm-regular" fill="#1A1A1A" x="28">Open</tspan><tspan
           class="wm-bold"    fill="#E03E3E">Claw</tspan><tspan
-          class="wm-regular" fill="#F5F0EB">HQ</tspan>
+          class="wm-regular" fill="#1A1A1A">HQ</tspan>
   </text>
 </svg>

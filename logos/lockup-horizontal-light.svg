@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 140" fill="none">
-  <!-- Dark background — iOS-radius -->
-  <rect width="560" height="140" rx="28" fill="#1A1A1A"/>
+  <!-- Light background — iOS-radius -->
+  <rect width="560" height="140" rx="28" fill="#FAFAFA"/>
 
-  <!-- Claw mark (500x500 → scaled to 100px) -->
+  <!-- Claw mark -->
   <g transform="translate(20, 20) scale(0.2)">
     <path d="M 130,375 L 130,225 C 130,145 155,75 160,70 C 165,75 190,145 190,225 L 190,375 Z" fill="#E03E3E"/>
     <path d="M 220,375 L 220,205 C 220,115 245,45 250,40 C 255,45 280,115 280,205 L 280,375 Z" fill="#E03E3E"/>
@@ -16,8 +16,8 @@
     .lk-b { font-weight: 700; }
   </style>
   <text y="86" class="lk">
-    <tspan class="lk-r" fill="#F5F0EB" x="140">Open</tspan><tspan
+    <tspan class="lk-r" fill="#1A1A1A" x="140">Open</tspan><tspan
           class="lk-b"  fill="#E03E3E">Claw</tspan><tspan
-          class="lk-r"  fill="#F5F0EB">HQ</tspan>
+          class="lk-r"  fill="#1A1A1A">HQ</tspan>
   </text>
 </svg>
