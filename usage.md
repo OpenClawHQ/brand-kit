@@ -98,22 +98,22 @@ Below these sizes, use the mark alone — the wordmark becomes illegible.
 
 ## Community usage
 
-If you're building an OpenClaw plugin, writing a tutorial, or running a community project, you're welcome to use the mark to indicate ecosystem compatibility. Use the standard mark files — don't modify them.
+If you're building an Effector for OpenClaw, writing a tutorial, or running a community project, you're welcome to use the mark to indicate ecosystem compatibility. Use the standard mark files — don't modify them.
 
 **Suggested patterns:**
 
 ```
-"Built for OpenClaw" + mark
-"Compatible with OpenClaw" + mark
-"Powered by OpenClaw" + mark
+"Built for the Effector ecosystem" + mark
+"Compatible with effectorHQ" + mark
+"Powered by effectorHQ" + mark
 ```
 
 **Don't imply official endorsement:**
 
 ```
-✗  "Official OpenClaw Partner"      (unless you are)
-✗  "Endorsed by OpenClaw"           (unless explicitly)
-✗  "OpenClaw Certified"             (no cert program exists yet)
+✗  "Official effectorHQ Partner"     (unless you are)
+✗  "Endorsed by effectorHQ"          (unless explicitly)
+✗  "effectorHQ Certified"            (no cert program exists yet)
 ```
 
 ---

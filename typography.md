@@ -1,6 +1,6 @@
 # Typography
 
-Type choices for the OpenClaw ecosystem. The system uses two families — one for human language, one for code — and a strict scale.
+Type choices for the effectorHQ ecosystem. The system uses two families — one for human language, one for code — and a strict scale.
 
 ---
 

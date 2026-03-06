@@ -1,6 +1,6 @@
 # Color System
 
-The OpenClaw palette balances industrial precision with warmth. It's built for dark-first interfaces but works across light and dark contexts.
+The effectorHQ palette balances industrial precision with warmth. It's built for dark-first interfaces but works across light and dark contexts.
 
 ---
 
@@ -8,7 +8,7 @@ The OpenClaw palette balances industrial precision with warmth. It's built for d
 
 ### Claw Red — `#E03E3E`
 
-The signature color. Inherited from the OpenClaw project. Used sparingly and deliberately — it marks things that matter.
+The signature color. Marks the "HQ" in the wordmark. Used sparingly and deliberately — it marks things that matter.
 
 ```
 HEX:  #E03E3E
@@ -71,7 +71,7 @@ Note: Error red (`#EF4444`) is intentionally different from Claw Red (`#E03E3E`)
 
 ## Dark mode (default)
 
-OpenClaw interfaces are dark-first. The default scheme:
+effectorHQ interfaces are dark-first. The default scheme:
 
 ```
 Background:       #1A1A1A  (Charcoal)

@@ -1,6 +1,6 @@
 # effectorHQ Brand Kit
 
-Visual identity and brand guidelines for the OpenClaw ecosystem.
+Visual identity and brand guidelines for the effectorHQ ecosystem.
 
 > **We build hands for AI that moves first.**
 
@@ -50,7 +50,7 @@ The visual identity follows three rules:
 
 ## Using the brand
 
-If you're building something in the OpenClaw ecosystem — a plugin, a tutorial, a community project — you're welcome to use these assets. The only ask: don't imply official endorsement unless you've coordinated with us.
+If you're building an Effector, a tutorial, or a community project — you're welcome to use these assets. The only ask: don't imply official endorsement unless you've coordinated with us.
 
 See [usage.md](./usage.md) for detailed guidelines.
 
