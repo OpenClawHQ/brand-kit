@@ -2,8 +2,8 @@
   <!-- Dark background — iOS-radius -->
   <rect width="560" height="140" rx="28" fill="#1A1A1A"/>
 
-  <!-- Claw mark: 100×100, positioned so claw+text block is centered in viewBox (560×140) -->
-  <g transform="translate(60, 20) scale(0.2)">
+  <!-- Claw mark: 100×100; y=23 centers icon vertically in 140px pill -->
+  <g transform="translate(60, 23) scale(0.2)">
     <path d="M 130,375 L 130,225 C 130,145 155,75 160,70 C 165,75 190,145 190,225 L 190,375 Z" fill="#E03E3E"/>
     <path d="M 220,375 L 220,205 C 220,115 245,45 250,40 C 255,45 280,115 280,205 L 280,375 Z" fill="#E03E3E"/>
     <path d="M 310,375 L 310,225 C 310,145 335,75 340,70 C 345,75 370,145 370,225 L 370,375 Z" fill="#E03E3E"/>
@@ -15,8 +15,8 @@
     .lk-r { font-weight: 600; }
     .lk-b { font-weight: 700; }
   </style>
-  <!-- Text centered in viewBox: x=340 (center of text zone), y=50% (vertical center) -->
-  <text x="340" y="50%" text-anchor="middle" dominant-baseline="middle" class="lk">
+  <!-- Text centered in viewBox: x=340 (center of text zone), y=70 (vertical center of 140) -->
+  <text x="340" y="82" text-anchor="middle" dominant-baseline="middle" class="lk">
     <tspan class="lk-r" fill="#F5F0EB">Open</tspan><tspan class="lk-b" fill="#E03E3E">Claw</tspan><tspan class="lk-r" fill="#F5F0EB">HQ</tspan>
   </text>
 </svg>
