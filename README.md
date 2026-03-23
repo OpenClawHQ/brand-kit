@@ -58,7 +58,6 @@ See [usage.md](./usage.md) for detailed guidelines.
 
 ## License
 
-
-This project is currently licensed under the Apache 2.0 License 。
+This project is currently licensed under the [Apache License, Version 2.0](LICENSE.md) 。
 
 Apache 2.0 — same as everything else in effectorHQ.
