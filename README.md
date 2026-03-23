@@ -44,7 +44,7 @@ The visual identity follows three rules:
 
 1. **Functional first** — Every element earns its place. No decoration without purpose.
 2. **Warm industrial** — Technical precision paired with approachable warmth. Sharp grids, generous spacing, rounded touch points.
-3. **Open by default** — The brand kit is MIT-licensed. Fork it, adapt it, make it yours.
+3. **Open by default** — The brand kit is Apache 2.0 licensed. Fork it, adapt it, make it yours.
 
 ---
 
@@ -58,4 +58,7 @@ See [usage.md](./usage.md) for detailed guidelines.
 
 ## License
 
-MIT — same as everything else in effectorHQ.
+
+This project is currently licensed under the Apache 2.0 License 。
+
+Apache 2.0 — same as everything else in effectorHQ.
